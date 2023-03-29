@@ -24,7 +24,7 @@ file.json
 ## Datasets:
 - [ARCD and Arabic-SQuAD](https://github.com/husseinmozannar/SOQAL)
 - [AAQAD](https://github.com/EmanElrefai/AAQAD)
-- [TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages](https://github.com/google-research-datasets/tydiqa)
+- [TyDi QA](https://github.com/google-research-datasets/tydiqa)
 - [MLQA](https://github.com/facebookresearch/MLQA)
 
 
